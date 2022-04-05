@@ -1,4 +1,4 @@
 # hide some private files as well submissions files
 
-*.pdf
-*.html
+**.pdf
+**.html
