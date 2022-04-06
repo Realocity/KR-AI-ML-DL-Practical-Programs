@@ -24,27 +24,27 @@ to run a MLDL program.
   <summary>:zap: Lab Contents</summary>
   <br/>
 
-- 1. [Practical 1](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Practical%201)
+- [Practical 1 - Correlation](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Practical%201)
 
-- 2. [Practical 2](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Practical%202)
+- [Practical 2 - Linear Regression](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Practical%202)
 
-- 3. [Practical 3](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Practical%203)
+- [Practical 3 - Multiple regression](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Practical%203)
 
-- 4. [Practical 4](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%204)
+- [Practical 4 - Logistic regression](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%204)
 
-- 5. [Practical 5](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%205)
+- [Practical 5 - Random forest](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%205)
 
-- 6. [Practical 6](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%206)
+- [Practical 6 - K means clustering](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%206)
 
-- 7. [Practical 7](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%207)
+- [Practical 7 - Clustering](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%207)
 
-- 8. [Practical 8](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%208)
+- [Practical 8 - Naivy Bay's classification program](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%208)
 
-- 9. [Practical 9](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%209)
+- [Practical 9 - SVM](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%209)
 
-- 10. [Practical 10](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%2010)
+- [Practical 10 - Deep-Learning on pima-indians-diabetes](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%2010)
 
-- 11. [Practical 11](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%2011)
+- [Practical 11 - CNN](https://github.com/Realocity/KR-AI-ML-DL-Practical-Programs/tree/main/Pratical%2011)
 
 </details>
 
